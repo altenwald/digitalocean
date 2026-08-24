@@ -1,5 +1,10 @@
 # Digitalocean
 
+[![Hex Package](https://img.shields.io/hexpm/v/digitalocean.svg)](https://hex.pm/packages/digitalocean)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-purple.svg)](https://hexdocs.pm/digitalocean)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/altenwald/digitalocean/blob/main/LICENSE)
+[![CI](https://github.com/altenwald/digitalocean/actions/workflows/ci.yml/badge.svg)](https://github.com/altenwald/digitalocean/actions/workflows/ci.yml)
+
 DigitalOcean API v2 Client and OAuth integration library in Elixir.
 
 ## Features
